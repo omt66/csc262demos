@@ -19,8 +19,8 @@ public class AnotherExceptionDemo {
         
         try {
             System.out.println("Choose an option to throw corresponding exception");
-            System.out.println(" 1. Ex A");
-            System.out.println(" 2. Ex B");
+            System.out.println(" 1. Exception A");
+            System.out.println(" 2. Exception B");
             System.out.println(" 3. Null pointer exception");
             System.out.println(" 4. IO exception");
             System.out.println(" 5. Quit");
